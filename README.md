@@ -1,3 +1,6 @@
+# WARNING
+This is not a official ZookieWizard repo. If you want to get stable and official version of this program go [here](https://github.com/Flower35/ZookieWizard)
+
 # ZookieWizard
 An advanced editor for **"Kao the Kangaroo: Round 2"**.
 
